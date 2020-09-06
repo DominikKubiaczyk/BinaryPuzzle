@@ -1,4 +1,4 @@
 Puzzle Binarne (Binary Puzzle)
 
-Projekt studencki, napisany w ramach przedmiotu Podstawy Programowania.
-Język: C/C++
+Student project, simple game basing on numbers and logical thinking
+Language: C/C++
